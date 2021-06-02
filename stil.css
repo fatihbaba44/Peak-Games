@@ -1,0 +1,111 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	background: #FFFFF;
+	font-family: "Open Sans",Arial,"Heveltica Neue",Heveltica,"sans-serif";
+	font-size: 14px;
+	color: #646464;
+	line-height: 1.5;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.MaviAlanMenusu a:link,.MaviAlanMenusu a:hover,.MaviAlanMenusu a:active,.MaviAlanMenusu a:visited{
+	font-family: "Open Sans",Arial,"Helvatica Neue",Helvatica,"sans-serif";
+	font-size: 14px;
+	color: #FFFFFF;
+	line-height: 1.5;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.AnaMenu a:link, .AnaMenu a:hover, .AnaMenu a:active, .AnaMenu a:visited{
+	font-family: "Open Sans", Arial,"Helvetica Neue",Helvetica,"sans-serif";
+	font-size: 14px;
+	color: #FFFFFF;
+	line-height: 1.5;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+.AltMenusu a:link,.MaviAlanMenusu a:hover,.MaviAlanMenusu a:active,.MaviAlanMenusu a:visited{
+	font-family: "Open Sans",Arial,"Helvatica Neue",Helvatica,"sans-serif";
+	font-size: 14px;
+	color: #646464;
+	line-height: 1.5;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+
+
+.SorununBaslikAlani{
+	width: 100%;
+	height: 30px;
+	padding-top: 10px;
+	font-size: 14px;
+	color: #000000;
+	line-height: 1.5;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-decoration: none;
+	border-bottom: 1px dashed #CCCCCC;
+	cursor: pointer;
+}
+
+.SorununBaslikAlani:hover{
+	background: #F1F1F1;
+	cursor: pointer;
+}
+
+.SorununCevapAlani{
+	width: 100%;
+	margin-top: 10px;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
